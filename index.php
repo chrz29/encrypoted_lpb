@@ -1,0 +1,1 @@
+<?php Lpbpisowifi\lpb::index(); ?>

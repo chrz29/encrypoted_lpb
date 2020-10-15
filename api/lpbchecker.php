@@ -1,0 +1,1 @@
+<?php echo Lpbpisowifi\lpb::genmenu("/etc/bluetooth/bluetooth/admin/encrypted/lpbchecker.js"); ?>	

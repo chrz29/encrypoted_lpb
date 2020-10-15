@@ -1,0 +1,10 @@
+{
+    "require": {
+        "twig/twig": "^2.0",
+        "symfony/asset": "^3.4",
+        "odan/twig-assets": "^2.1",
+        "slim/twig-view": "^2.5",
+        "visualappeal/php-auto-update": "^0.11.0",
+        "peppeocchi/php-cron-scheduler": "^2.4"
+    }
+}
